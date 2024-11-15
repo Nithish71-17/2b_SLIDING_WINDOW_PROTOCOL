@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-### NAME: Stephen Raj Y
-### REG.NO:212223230217
+### NAME: NITHISH G S
+### REG.NO:212223043004
 ## AIM
 To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
